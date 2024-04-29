@@ -2,14 +2,14 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://gyeonghyeons.github.io/gyeonghyeons.github.io"
+url: "https://gyeonghyeons.github.io"
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the repository_name here, like this: "/repository-name"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
-repository_name: /personal-jekyll-theme
+repository_name: /gyeonghyeons.github.io
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
 #############
