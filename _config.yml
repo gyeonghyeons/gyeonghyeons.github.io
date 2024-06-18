@@ -89,7 +89,7 @@ syntax-highlight: True
 # Timeline #
 ############
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/baby.png"
     date: "September 2013 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
@@ -121,8 +121,8 @@ author_blurb_image: "/img/author.png"
 social:
   - icon: "github"
     url: "https://github.com/le4ker/personal-jekyll-theme"
-  - icon: "linkedin-in"
-    url: "https://www.linkedin.com"
+  - icon: "instagram"
+    url: "https://www.instagram.com/_gg_hyeon/m"
   - icon: "x-twitter"
     url: "https://twitter.com/"
   - icon: "rss"
