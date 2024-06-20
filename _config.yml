@@ -101,6 +101,8 @@ events:
 
 # First image of the Timeline
 timeline-img: "/img/timeline/coding.png"
+date: "과거부터 현재까지"
+description: "열심히 코딩중!"
 ###########
 # Contact #
 ###########
