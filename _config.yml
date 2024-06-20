@@ -9,7 +9,7 @@ url: "gyeonghyeons.github.io"
 # then add in the repository_name here, like this: "/repository-name"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
-repository_name: "경현님 취뽀를 기원합니다."
+repository_name: ""
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
 #############
