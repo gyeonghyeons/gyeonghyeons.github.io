@@ -9,7 +9,7 @@ url: "gyeonghyeons.github.io"
 # then add in the repository_name here, like this: "/repository-name"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
-repository_name: ""
+repository_name: "경현님 취뽀를 기원합니다."
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
 #############
@@ -17,7 +17,7 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 lang: "en"
 author: "John Smith"
-title: "{  }"
+title: "{ 경현님 취뽀를 기원합니다 }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -94,13 +94,13 @@ events:
     description: "Hello world!"
   - image: "/img/timeline/army.png"
     date: "2019.02.29 - 2020.09.20"
-    description: "충성!"
+    description: "충성! 2작전사령부 근무지원단 전역"
   - image: "/img/timeline/dankook.png"
     date: "2022.03.01 - 2026.02.20"
-    description: "hello dankook!"
+    description: "구국단국! 미래융합! 창조컴공!"
 
 # First image of the Timeline
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/coding.png"
 ###########
 # Contact #
 ###########
@@ -116,8 +116,7 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-  "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
-  engineering projects. In his spare time, John likes to eat cotton candy."
+  "경현님 할 수 있습니다!."
 author_blurb_image: "/img/author.png"
 ##################
 # Social Buttons #
@@ -127,10 +126,10 @@ social:
     url: "https://github.com/gyeonghyeons"
   - icon: "instagram"
     url: "https://www.instagram.com/_gg_hyeon/m"
-  - icon: "x-twitter"
-    url: "https://twitter.com/"
-  - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+  - icon: "N"
+    url: "https://blog.naver.com/ggh01140"
+  - icon: "note-sticky"
+    url: "https://www.notion.so/a554e01950244d6a8b5f418e1088da80"
 ############
 # 404 page #
 ############
